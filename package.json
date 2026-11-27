@@ -1,0 +1,8 @@
+{
+  "name": "aternos-keepalive",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  }
+}
